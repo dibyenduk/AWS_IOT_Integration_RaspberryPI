@@ -71,4 +71,4 @@ Objective of this exercise is to learn how to send data from Raspberry PI or oth
 
 10. Connection from Raspberry PI to AWS IOT Core is successful and we are able to send message from Raspberry PI to AWS IOT Core and from AWS IOT Core to Raspberry PI.
 
-   ![](src/images/PiConnectionSuccess.png)
+   ![](src/images/PIConnectionSuccess.png)
